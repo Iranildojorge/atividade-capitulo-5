@@ -1,7 +1,6 @@
 # Atividade prática — Esse sistema precisa mudar!
 
 ## Integrantes
-- Nathalia Brandão
 - Iranildo Nunes
 - Tailana Batista
 
